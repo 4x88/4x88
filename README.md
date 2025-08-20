@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on: An AI-powered 3D printing server, integrating advanced automation and optimization algorithms for real-time control and monitoring.<br><br> I’m looking to collaborate on: Any AI or Java-based projects, especially those involving automation, machine learning, or backend development.<br><br>🌱 I’m currently learning: Rust, with a focus on building decentralized applications (dApps) on the Solana blockchain, leveraging its high performance and low fees.<br><br> Ask me about: AI, Java development, CAD design, and additive manufacturing. Windows on ARM, ARM BOOTSTRAP
+I’m currently working on: An AI-powered 3D printing server, integrating advanced automation and optimization algorithms for real-time control and monitoring.<br><br> .<br><br>Ask me about: AI, Java development, CAD design, and additive manufacturing. Windows on ARM, ARM BOOTSTRAP
 
 
 ### ✍️ Random Dev Quote
