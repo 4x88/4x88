@@ -1,11 +1,5 @@
-# 💫 About Me:
-I’m currently working on: An AI-powered 3D printing server, integrating advanced automation and optimization algorithms for real-time control and monitoring.<br><br> .<br><br>Ask me about: AI, Java development, CAD design, and additive manufacturing. Windows on ARM, ARM BOOTSTRAP
+Built different.
 
+If it streams, breaks, or shouldn’t work — I’ll make it work.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=4x88&icon=9&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I build real-time AI systems, perception tech, and networking pipelines that exist somewhere between embedded hardware, mobile apps, and cloud AI.
